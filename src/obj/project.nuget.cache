@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9vSIm/dN8g0L4gD0fonmqICQZncG45qpQ1JylOY1LYeJ1kCpSuzUSUrGzn/3iVmubkr7TgAcqTVIKpRlmX4wnQ==",
+  "success": true,
+  "projectFilePath": "D:\\github\\Difference_Between_AddTransient_AddScoped_AddSingleton\\src\\ServiceLifetimeWebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\f_nosrati\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\f_nosrati\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\f_nosrati\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\f_nosrati\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\f_nosrati\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\f_nosrati\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
