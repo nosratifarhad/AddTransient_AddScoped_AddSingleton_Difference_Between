@@ -1,7 +1,12 @@
+# Ignore any files in /bin and /obj Folders
+**/bin/*
+**/obj/*
+
 **/bin
 **/obj
 */obj
 .vs
+
 *.suo
 *.user
 _ReSharper.*
