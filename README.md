@@ -1,8 +1,4 @@
 ### reference : https://learn.microsoft.com/en-us/dotnet/core/extensions/dependency-injection-usage
-
-# Final Result
-![My Remote Image](https://github.com/nosratifarhad/Difference_Between_AddTransient_AddScoped_AddSingleton/blob/main/img/lifetime1.jpg)
-
 # add Base Interface
 ![My Remote Image](https://github.com/nosratifarhad/Difference_Between_AddTransient_AddScoped_AddSingleton/blob/main/img/lifetime6.jpg)
 
@@ -17,3 +13,6 @@
 
 # Add Service Lifetime Reporter
 ![My Remote Image](https://github.com/nosratifarhad/Difference_Between_AddTransient_AddScoped_AddSingleton/blob/main/img/lifetime3.jpg)
+
+# Final Result
+![My Remote Image](https://github.com/nosratifarhad/Difference_Between_AddTransient_AddScoped_AddSingleton/blob/main/img/lifetime1.jpg)
